@@ -3,7 +3,7 @@
 
 Un Pokedex simple réalisé avec Vue 3, TypeScript et Vite. Ce projet a été conçu comme une initiation aux technologies utilisées.
 
-![Capture d'écran du Pokedex](lien-vers-une-capture-d'écran-si-vous-en-avez-une)
+
 
 ## Fonctionnalités
 
@@ -22,7 +22,7 @@ Un Pokedex simple réalisé avec Vue 3, TypeScript et Vite. Ce projet a été co
 1. **Clonez le dépôt** :
 
    ```bash
-   git clone lien-vers-votre-repo.git
+   git clone (https://github.com/MickaelMallet/Pokedex-Vue-TS.git)
    cd nom-du-dossier
    ```
 
